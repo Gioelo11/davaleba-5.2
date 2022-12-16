@@ -18,7 +18,7 @@ li{
     margin-right: 102px;
     color: #7f7f7f;
     font-size: 18px;
-    font-family: ;
+    font-family: 'Roboto', sans-serif;
 }
 section{
     width: 1280px; 
@@ -37,22 +37,23 @@ display: inline-block;
 width: 307px;
 vertical-align: top;
 }
-h2{
+.satauri1{
     font-size: 40px;
     color: #19381f;
     margin-bottom: 50px;
+    font-family: 'Roboto', sans-serif;
 }
 p{
     font-size: 20px;
     color: #f4f4f1;
+    font-family: 'Roboto', sans-serif;
+    font-style: italic;
 }
 article{
-    /* width: 959px; */
     margin: 0 auto;
     font-size: 40px;
     color: #36413e;
     margin: 2px solid red;
-    /* padding: 184px 50px 137px 150px; */
     padding-left: 184px;
     padding-top: 50px;
     padding-right: 137px;
@@ -61,6 +62,9 @@ article{
 .what{
     text-align: center;
     font-size: 40px;
+    margin-bottom: 50px;
+    font-family: 'Roboto', sans-serif;
+    font-style: italic;
 }
 .text2{
     width: 959px;
@@ -68,6 +72,19 @@ article{
     color: #7f7f7f;
     text-align: center;
     font-size: 20px;
+    font-family: 'Roboto', sans-serif;
+    font-style: italic;
+}
+footer{
+    background-color: #306b34;
+    width: 1280px;
+    margin: 0 auto;
+    padding-left: 74px;
+    padding-top: 25px;
+    padding-bottom: 27px;
+}
+.logo2{
+    margin-right: 724px;
 }
 
  

@@ -1,7 +1,7 @@
 @font-face {
     font-family: 'Rubik Vinyl';
     src: url('../fonts/RubikVinyl-Regular.eot');
-    src: url('../fonts/RubikVinyl-Regular.eot?#iefix') format('embedded-opentype'),
+    src: url('RubikVinyl-Regular.eot?#iefix') format('embedded-opentype'),
         url('../fonts/RubikVinyl-Regular.woff2') format('woff2'),
         url('../fonts/RubikVinyl-Regular.woff') format('woff'),
         url('../fonts/RubikVinyl-Regular.ttf') format('truetype'),
@@ -10,4 +10,15 @@
     font-style: normal;
     font-display: swap;
 }
-
+font-face{
+    font-family: 'Roboto';
+    src: url('../fonts/Roboto-Black.eot');
+    src: url('Roboto-Black.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Roboto-Black.woff2') format('woff2'),
+        url('../fonts/Roboto-Black.woff') format('woff'),
+        url('../fonts/Roboto-Black.ttf') format('truetype'),
+        url('../fonts/Roboto-Black.svg#Roboto-Black') format('svg');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
